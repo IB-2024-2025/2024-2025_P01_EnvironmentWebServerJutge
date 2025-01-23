@@ -218,7 +218,7 @@ Consulte para ello las instrucciones
 cd
 mkdir practicas
 cd practicas
-git clone git@github.com:ULL-ESIT-PAI-2022-2023/2022-2023_P01_EnvironmentWebServerJutge.git
+git clone git@github.com:ULL-ESIT-PAI-2024-2025/2024-2025_P01_Environment-WebServer-Jutge.git
 ```
  
 14. En la máquina local ejecute el Microsoft Visual Studio Code (VSC) y siga 
