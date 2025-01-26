@@ -257,9 +257,10 @@ que se encuentra en el directorio `www/js/` del proyecto de esta práctica.
 Modifique el programa para que el texto `Introduzca el número de rectángulos` se muestre en español en lugar de inglés.
 
 17. **TAREA #07** Siga [estas instrucciones](http://www.linuxproblem.org/art_9.html) 
-para establecer la configuración de la máquina de modo que se pueda conectar a ella sin necesidad de escribir el password en cada conexión. 
+para establecer la configuración de la máquina de modo que se pueda conectar a ella sin necesidad de escribir el password en cada conexión.
+En esas instrucciones `host A` sería la máquina linux del Centro de Cálculo mientras que `host B` sería su máquina virtual y obviamente `user a` sería su nombre de usuario en las máquinas del Centro de Cálculo -aluXXXX@ull.edu.es- mientras que `user b` sería `usuario`. 
 
-18. También resulta conveniente utilizar alguno de los métodos (ssh config o alias) que se presentan en 
+19. También resulta conveniente utilizar alguno de los métodos (ssh config o alias) que se presentan en 
 [estas instrucciones](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut) 
 de modo que se simplifique la conexión con la máquina remota pudiendo escribir algo como:
 ```
