@@ -174,6 +174,8 @@ $ sudo apt update
 $ sudo apt upgrade
 $ sudo apt autoremove
 ```
+Con respecto a la instalación del cargador de arranque (grub) indíque al sistema que lo instale en la primera de las opciones que se muestran, aunque es un paso innecesario y puede no instalarlo.
+
 [Esta imagen](https://raw.githubusercontent.com/fsande/IB-P01-EntornoIaaS/3b0223eef4fff02835108ac59ea8d2f2f26c43cc/img/update.png)
 muestra el resultado de ejecución del primero de estos comandos y 
 [esta otra](https://raw.githubusercontent.com/fsande/IB-P01-EntornoIaaS/3b0223eef4fff02835108ac59ea8d2f2f26c43cc/img/upgrade2.png)
