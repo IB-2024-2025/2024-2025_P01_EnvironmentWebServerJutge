@@ -289,6 +289,12 @@ que es un entorno de ejecucion para JavaScript.
 [esta referencia](https://lenguajejs.com/npm/introduccion/que-es/) 
 para conocer `npm` e instalarlo en la máquina virtual.
 
+Al seguir esas instrucciones, instale la versión 23 de Node y cuando finalice, compruebe que tiene instalados Node y Npm:
+```
+$ node --version
+$ npm --version
+```
+
 ### Configuración
 
 19. Sitúese en el directorio raíz de su proyecto para esta práctica (en el que se encuentra el fichero `package.json`):
