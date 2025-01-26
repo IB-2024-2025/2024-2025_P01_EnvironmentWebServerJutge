@@ -328,11 +328,16 @@ $ nohup sudo -b npm start
 ```
 en el paso 21 anterior.
 
-22.- Ejecute en su máquina virtual el comando `history -a` y a continuación copie el fichero `~/.bash_history`
-con el nombre `HISTORY.txt` en el directorio raíz de esta práctica.
+23. **TAREA #10** Ejecute en su máquina virtual el comando `history -a` y a continuación copie el fichero `~/.bash_history`
+con el nombre `HISTORY.txt` en el directorio raíz de esta práctica (el que contiene el fichero `package.json`).
+Cree un fichero .tar.gz conteniendo todo el directorio de su práctica en su máquina virtual (el directorio `2024-2025_P01_Environment-WebServer-Jutge`) y entregue ese fichero en la tarea del aula virtual correspondiente a esta práctica.
+
+Recuerde que al final de cada sesión de prácticas ha de entregar:
+* El enlace en formato ssh al repo privado de su práctica
+* Un fichero .tar.gz conteniendo todos los ficheros alojados en el directorio de su proyecto.
 
 ### La plataforma Jutge
-23. **TAREA #11** En su correo electrónico debe tener un mensaje de invitación a la plataforma Jutge.
+24. **TAREA #11** En su correo electrónico debe tener un mensaje de invitación a la plataforma Jutge.
 Acepte esa invitación y regístrese en la plataforma con su **cuenta de correo institucional**.
 
 [Jutge](https://jutge.org/) es una plataforma que ha sido desarrollada en la
@@ -357,6 +362,6 @@ iniciación en la programación con JavaScript/TypeScript.
 contiene información algo más detallada sobre el uso de la plataforma Jutge. 
 Estúdielas antes de comenzar a trabajar con la misma.
 
-Una vez que tenga su cuenta en Jutge, realice JavaScript/TypeScript cuantos ejercicios sea capaz de programar
+Una vez que tenga su cuenta en Jutge, realice en JavaScript/TypeScript cuantos ejercicios sea capaz de programar
 haciendo que su solución pase los tests públicos disponibles en Jutge para cada problema.
 Cuantos más problemas resuelva, más incrementará sus capacidades como programadora.
