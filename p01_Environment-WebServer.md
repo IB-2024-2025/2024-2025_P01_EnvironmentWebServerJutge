@@ -202,11 +202,11 @@ Siempre puede reiniciar la máquina desde la interfaz web de administración o b
 $ sudo reboot
 ```
 
-11. Instale `git` en su máquina:
+11. Instale `git` en su máquina en caso de que no se encuentre ya instalado:
 ```
 $ sudo apt install git
 ```
-y compruebe que está instalado:
+y compruebe en cualquier caso que está instalado:
 ```
 $ git --version
 ```
@@ -254,11 +254,12 @@ en la asignatura.
 15. **TAREA #06** Utilice el VSC para editar de forma remota el código fuente del programa 
 [computePI.js](https://github.com/ULL-ESIT-PAI-2021-2022/2021-2022-PAI-P01-EnvironmentWebServer/blob/master/www/js/computePI.js)
 que se encuentra en el directorio `www/js/` del proyecto de esta práctica.
+Modifique el programa para que el texto `Introduzca el número de rectángulos` se muestre en español en lugar de inglés.
 
-16. **TAREA #07** Siga [estas instrucciones](http://www.linuxproblem.org/art_9.html) 
+17. **TAREA #07** Siga [estas instrucciones](http://www.linuxproblem.org/art_9.html) 
 para establecer la configuración de la máquina de modo que se pueda conectar a ella sin necesidad de escribir el password en cada conexión. 
 
-17. También resulta conveniente utilizar alguno de los métodos (ssh config o alias) que se presentan en 
+18. También resulta conveniente utilizar alguno de los métodos (ssh config o alias) que se presentan en 
 [estas instrucciones](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut) 
 de modo que se simplifique la conexión con la máquina remota pudiendo escribir algo como:
 ```
