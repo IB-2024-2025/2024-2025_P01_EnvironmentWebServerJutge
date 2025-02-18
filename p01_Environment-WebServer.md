@@ -286,10 +286,10 @@ Para instalar el servidor se utilizará
 que es un entorno de ejecucion para JavaScript.
 
 18. **TAREA #08** Establezca una conexión `ssh` con su máquina virtual IaaS y utilice 
-[esta referencia](https://lenguajejs.com/npm/introduccion/que-es/) 
-para conocer `npm` e instalarlo en la máquina virtual.
+[esta referencia](https://lenguajejs.com/npm/introduccion/instalacion-node-con-pnpm/) 
+para conocer `pnpm` e instalarlo en la máquina virtual.
 
-Al seguir esas instrucciones, instale la versión 23 de Node y cuando finalice, compruebe que tiene instalados Node y Npm:
+Siguiendo esas instrucciones, instale la versión LTS de node y cuando finalice, compruebe que tiene instalados Node y Npm:
 ```
 $ node --version
 $ npm --version
